@@ -1,0 +1,31 @@
+.all{
+    width: 500px;
+    height: 500px;
+    border size: 2px;
+    margin: auto;
+    border-style: outset;
+}
+.whole{
+    display: flex;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+}
+
+.box1{
+width: 100px;
+height: 100px;
+background-color: rgb(218, 192, 192);
+}
+.box2{
+width: 100px;
+height: 100px;
+background-color: white;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-size: 50px
+    color: green;
+}
